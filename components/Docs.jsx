@@ -113,7 +113,7 @@ export default function Docs() {
             <div className="pb-12 pt-8">
               <div className="mdx prose prose-slate max-w-none">
                 <p>
-                  This is <strong>NOT</strong> a component library. It's a
+                  This is <strong>NOT</strong> a component library. It is a
                   collection of re-usable components that you can copy and paste
                   into your apps.
                 </p>

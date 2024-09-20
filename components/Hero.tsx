@@ -42,7 +42,7 @@ export default function Hero() {
           {/* Title */}
           <div className="space-y-4">
             <h1 className="text-4xl font-extrabold text-white tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-              Discover What You're Looking For
+              Discover What You are Looking For
             </h1>
             <p className="mx-auto max-w-[700px] text-lg text-gray-100 md:text-2xl">
               Your journey starts with a simple search. Let us help you find
